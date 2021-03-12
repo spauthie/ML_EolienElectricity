@@ -7,3 +7,5 @@
   5. Plotter un catplot de ces 2 colonnes (ou tout autre visu qui pourrait confirmer ou infirmer le choix précédent)
   6. Utiliser le TP intro stats pour trouver le meilleur predicteur (ici une fonction lineaire y = ax + b), selon la methode des moindres carrés
   7. Evaluer la qualité du predicteur en calculant son RMSE (Root Mean Squared Error)
+
+Bonus : utilisation d'algo. avancés pour améliorer nos prédictions...
